@@ -57,7 +57,7 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 ### 2️⃣ Entre na pasta do projeto
 
 ```bash
-cd MotoboyFrete
+cd Solid
 ```
 
 ### 3️⃣ Compile os arquivos Java
